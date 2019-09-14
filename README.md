@@ -21,8 +21,8 @@ Give examples
 
 
 ## Acknowledgements 
-Special thanks to: 
-Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter. 
+Special thanks to: \newline
+Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter. \newline
 Danielle Yasso for grabbing a coffee with me to share her experiences both as a Hackbrighter and the five years since she completeing the program. 
 
 
