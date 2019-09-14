@@ -21,9 +21,13 @@ Give examples
 
 
 ## Acknowledgements 
-Special thanks to: \newline
-Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter. \newline
-Danielle Yasso for grabbing a coffee with me to share her experiences both as a Hackbrighter and the five years since she completeing the program. 
+Special thanks to:  
+
+Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
+
+Danielle Yasso for grabbing a coffee with me to share her experiences, as a Hackbrighter, her job search afterwards, and what she has been up to since completing the program. 
+
+Bianca Gandolfo for sharing her experience at Hack Reactor  and telling me to jump all in. 
 
 
 The original plan for my prep course project was building the game of pong. In the end I was able to do so with help from this tutorial. Afterwards I wanted to build a program that felt more like mine and was able to repurpose the concepts I learned from building python to build the frogger game. 
