@@ -11,13 +11,10 @@ Thank you for taking the time to review my application. This file contains instr
 
 Download the python file and run it on your machine. When the file is running properly, a game board should appear that looks like this: 
 
-![](images/game-board.png)
-
 #### Game Play
 
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. If you hit one of the balls your frog will be sent back to start. Reach the green line and you win!
 
-```
 #### Game Controls
 
 Use your keyboard arrows to control your frog. You may move up, downn, forwards, and backwards.
@@ -28,7 +25,7 @@ You may increase the speed of the balls by updating the argument provided in the
 
 In the screenshot below, you can see where to update the level of the game. 
 
-![](images/changing-level)
+![](images/changing-level.jpg)
 
 ## Code Improvements
 
