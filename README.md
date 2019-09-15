@@ -16,15 +16,25 @@ Download python file and run on your machine.
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
 
 ```
-Give examples
+Game Controls
+```
+```
+Altering the level of the game
 ```
 
 ## Code Improvements
 
-#### Random speed and ball direction function added
+#### Random speed and ball direction functionality added
+I wanted to be sure that each time a user played the game that it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go and used random to generate a random float to be applied to the movement of the balls. 
+
 #### Removal of unneccesary functions
+The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
+
 #### Cleaned up formatting
+The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
+
 #### Corrected flashing win message 
+The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
 
 
 ## Acknowledgements 
