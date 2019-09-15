@@ -10,9 +10,9 @@ wn.bgcolor("black")
 wn.setup(width=600, height=500)
 wn.tracer(0)  # speeds up our game
 
-##########
-# SPEED  #
-##########
+#############
+# LIBRARIES #
+#############
 #Providing a list to randomly populate both speed and direction from starting position for each ball
 #Do not add 0 to this list, the ball will not move.
 ball_direction = [-2.0,  -1.9, -1.8, -1.7, -1.6, -1.5, -1.4, -1.3, -1.2, -1.1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2]
@@ -202,6 +202,7 @@ def ball_intersect(left_x, right_x, ball_number):
 	"""Turtle will go back to start after colliding with a ball"""
 	# left_x and right_x define the x coordinate range the turtle needs to be in
 	# +/- 10 accounts for ball size
+	# sets turtle back to starting position
 	if (turtle.xcor() > (left_x) and turtle.xcor() < (right_x)) and \
 		((ball_number).ycor() < turtle.ycor() + 10 and \
 			(ball_number).ycor() > turtle.ycor() - 10):
@@ -238,11 +239,12 @@ def movement(level):
 	ball_intersect(200, 250, ball_seven)
 
 def main_game_loop(level):
+
 	#Lets the player know what level they are on
-	
 	pen_level.write("Level:", align="center", font=("Courier", 24, "normal"))
 	pen_level_number.write(level, align="center", font=("Courier", 24, "normal"))
 
+	#checking for win loop
 	while True:
 
 		if (turtle.xcor() < 250):
@@ -251,7 +253,7 @@ def main_game_loop(level):
 
 		else:
 			wn.bgcolor("white")
-			pen.write("You Won!", align="center", font=("Courier", 48, "normal"))
+			pen.write("Yaas, nice win!", align="center", font=("Courier", 40, "normal"))
 
 ############
 # CONTROLS #
@@ -269,4 +271,10 @@ wn.onkey(turtle_down, "Down")
 ########
 #CHANGE LEVEL IN ARGUMENT HERE:
 main_game_loop(3) 
+
+
+
+
+
+
 
