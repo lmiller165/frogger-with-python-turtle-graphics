@@ -17,10 +17,8 @@ The objective of Frogger is to cross to the green finish line without colliding 
 **Game Controls**  
 Use your keyboard arrows to control your frog. You may move up, downn, forwards, and backwards.
 
-**Change the level of the game**  
-You may increase the speed of the balls by updating the argument provided in the main game loop. I reccommend starting with level three and incrementing up from there. 
-
-In the screenshot below, you can see where to update the level of the game. 
+**Changing the level of the game**  
+You may increase the speed of the balls by updating the argument provided in the main game loop. I reccommend starting with level three and incrementing up from there. In the screenshot below, you can see where to update the level of the game:
 
 ![](images/changing-level.jpg)
 
@@ -30,13 +28,13 @@ In the screenshot below, you can see where to update the level of the game.
 I wanted to be sure that each time a user played the game that it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go and used random to generate a random float to be applied to the movement of the balls. 
 
 **Removal of unneccesary functions**  
-The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
+Functions were regrouped so that all object movement were included within the same function. 
 
 **Cleaned up formatting**  
-The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
+Removed unneccessary spaces and unused code from file. Coordinates were reforatted with proper spacing. 
 
-**Corrected flashing win message**   
-The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
+**Added level message**   
+Printed message was added to the top corner of the game board to inform the player what level they are currently playing.
 
 
 ## Acknowledgements 
