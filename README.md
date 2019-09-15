@@ -25,9 +25,8 @@ Special thanks to:
 
 Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
 
-Danielle Yasso for grabbing a coffee with me to share her experiences, as a Hackbrighter, her job search afterwards, and what she has been up to since completing the program. 
+Danielle Yasso for grabbing a coffee with me to share her experiences as a Hackbrighter, her job search afterwards, and what she has accomplished since completing the program. 
 
-Bianca Gandolfo for sharing her experience at Hack Reactor  and telling me to jump all in. 
+Bianca Gandolfo for sharing her experiences at Hack Reactor, what she is doing now, and how she is mentoring with Girls Who Code. 
 
-
-The original plan for my prep course project was building the game of pong. In the end I was able to do so with help from this tutorial. Afterwards I wanted to build a program that felt more like mine and was able to repurpose the concepts I learned from building python to build the frogger game. 
+I am so grateful to all these women for their kindness, words of encouragement, and support. I can't wait to join the community of women in tech. 
