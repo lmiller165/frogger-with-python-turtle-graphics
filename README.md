@@ -9,7 +9,9 @@ Thank you for taking the time to review my application. This file contains instr
 
 #### Installation
 
-Download python file and run on your machine. 
+Download python file and run on your machine. When the file is running properly, a game board should appear that looks like this: 
+
+![](images/game-board.png)
 
 #### Game Play
 
