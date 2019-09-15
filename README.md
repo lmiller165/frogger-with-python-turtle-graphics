@@ -23,10 +23,13 @@ Give examples
 ## Acknowledgements 
 Special thanks to:  
 
-Inhye Baik for taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
+Inhye Baik 
+For taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
 
-Danielle Yasso for grabbing a coffee with me to share her experiences as a Hackbrighter, her job search afterwards, and what she has accomplished since completing the program. 
+Danielle Yasso   
+For grabbing a coffee with me to share her experiences as a Hackbrighter, her job search afterwards, and what she has accomplished since completing the program. 
 
-Bianca Gandolfo for sharing her experiences at Hack Reactor, what she is doing now, and how she is mentoring with Girls Who Code. 
+Bianca Gandolfo  
+For sharing her experiences at Hack Reactor, what she is doing now, and how she is mentoring with Girls Who Code. 
 
 I am so grateful to all these women for their kindness, words of encouragement, and support. I can't wait to join the community of women in tech. 
