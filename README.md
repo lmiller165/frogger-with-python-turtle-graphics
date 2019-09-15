@@ -26,16 +26,19 @@ You may increase the speed of the balls by updating the argument provided in the
 ## Code Improvements
 
 **Random speed and ball direction functionality added**  
-I wanted to be sure that each time a user played the game that it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go and used random to generate a random float to be applied to the movement of the balls. 
+I wanted to be sure that each time a user played the game, it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go then randomly generated a float to be applied to the movement of the balls. 
 
 **Removal of unneccesary functions**  
-Functions were regrouped so that all the object movements were included within the same function and therfore removing an uneccessary function.
+Functions were regrouped so that all the object movements were included within the same function which removed an uneccessary function.
 
 **Cleaned up formatting**  
 Removed unneccessary spaces and unused code from file. Coordinates were reformatted with proper spacing. 
 
 **Added level message**   
 Printed message was added to the top corner of the game board to inform the player what level they are currently playing.
+
+**Game loop**   
+Game loop was cleaned up and flashing "You won!" message was corrected.
 
 
 ## Acknowledgements 
