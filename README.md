@@ -1,4 +1,5 @@
-# Scholarship Application 
+# Hackbright Scholarship Application 
+#### Start date: September 30th, 2019
 
 Thank you for taking the time to review my application. This file contains instructions on installing my program, playing the frogger game, and what improvements were made to my code since it was submitted as a final project in the Prep Course. I hope you enjoy playing! 
 
