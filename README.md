@@ -1,7 +1,7 @@
 # Hackbright Scholarship Application 
 #### Cohort start date: September 30th, 2019
 
-Thank you for taking the time to review my application. This file contains instructions for installing my program, playing the frogger game, and what improvements were made to my code since it was submitted as a final project in the Prep Course. I hope you enjoy playing! 
+Thank you for taking the time to review my application. This file contains instructions for installing my program, playing the frogger game, and the improvements that were made to my code since it was submitted as a final project in the Prep Course. I hope you enjoy playing! 
 
 ![](images/header-image.jpg)
 
