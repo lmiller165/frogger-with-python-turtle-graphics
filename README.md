@@ -18,6 +18,10 @@ Give examples
 
 ## Code Improvements
 
+#### Random Speed and Ball Direction
+#### Removal of unneccesary functions
+#### Random lines of congratulations for a small spark of joy
+#### Cleaned formatting
 
 
 ## Acknowledgements 
@@ -32,4 +36,4 @@ For grabbing a coffee with me to share her experiences as a Hackbrighter, her jo
 **Bianca Gandolfo**  
 For sharing her experiences at Hack Reactor, what she is doing now, and how she is mentoring with Girls Who Code. 
 
-I am so grateful to all these women for their kindness, words of encouragement, and support. I can't wait to join the community of women in tech. 
+I am so grateful to all these women for their kindness, words of encouragement, and support. I can't to be part of the women in tech community. 
