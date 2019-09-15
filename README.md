@@ -11,8 +11,8 @@ Download the python file and run it on your machine. When the file is running pr
 
 ![](images/game-board.png)
 
-**Game Play**  
-The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. If you hit one of the balls your frog will be sent back to start. Reach the green line and you win!
+**Game Objective**  
+The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. If you hit one of the balls, your frog will return to start. Reach the green line and you win!
 
 **Game Controls**  
 Use your keyboard arrows to control your frog. You may move up, downn, forwards, and backwards.
@@ -28,10 +28,10 @@ You may increase the speed of the balls by updating the argument provided in the
 I wanted to be sure that each time a user played the game that it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go and used random to generate a random float to be applied to the movement of the balls. 
 
 **Removal of unneccesary functions**  
-Functions were regrouped so that all object movement were included within the same function. 
+Functions were regrouped so that all the object movements were included within the same function and therfore removing an uneccessary function.
 
 **Cleaned up formatting**  
-Removed unneccessary spaces and unused code from file. Coordinates were reforatted with proper spacing. 
+Removed unneccessary spaces and unused code from file. Coordinates were reformatted with proper spacing. 
 
 **Added level message**   
 Printed message was added to the top corner of the game board to inform the player what level they are currently playing.
@@ -44,9 +44,9 @@ Special thanks to:
 For taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
 
 **Danielle Yasso**   
-For grabbing a coffee with me to share her experiences as a Hackbrighter, her job search afterwards, and what she has accomplished since completing the program. 
+For grabbing a coffee with me to share her experiences as a Hackbrighter, tips for job search afterwards, and what she has accomplished since completing the program. 
 
 **Bianca Gandolfo**  
-For sharing her experiences at Hack Reactor, what she is doing now, and how she is mentoring with Girls Who Code. 
+For sharing her experiences at Hack Reactor, her current role at Thumbtack, and how her mentoring experience with Girls Who Code. 
 
-I am so grateful to all these women for their kindness, words of encouragement, and support. I can't to be part of the women in tech community. 
+I am so grateful to all these women for their kindness, words of encouragement, and support. I am so excited to be part of the women in tech community!
