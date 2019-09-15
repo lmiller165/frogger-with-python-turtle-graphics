@@ -35,7 +35,7 @@ Functions were regrouped so that all the object movements were included within t
 Removed unnecessary spaces and unused code from file. Coordinates were reformatted with proper spacing. 
 
 **Added level message**   
-Printed message was added to the top corner of the game board to inform the player what level they are currently playing.
+A printed message was added to the top corner of the game board to inform the player what level they are currently playing.
 
 **Game loop**   
 Game loop was cleaned up. The resulting message after a win was  flashing was corrected and no longer flashing.
