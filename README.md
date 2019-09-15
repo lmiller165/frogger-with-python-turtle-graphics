@@ -1,14 +1,12 @@
 # Hackbright Scholarship Application 
-#### Cohort start date: September 30th, 2019
-
+**Cohort start date: September 30th, 2019**  
 Thank you for taking the time to review my application. This file contains instructions for installing my program, playing the frogger game, and the improvements that were made to my code since it was submitted as a final project in the Prep Course. I hope you enjoy playing! 
 
 ![](images/header-image.jpg)
 
 ## Getting Started 
 
-#### Installation
-
+**Installation**  
 Download the python file and run it on your machine. When the file is running properly, a game board should appear that looks like this: 
 
 ![](images/game-board.png)
@@ -28,16 +26,16 @@ In the screenshot below, you can see where to update the level of the game.
 
 ## Code Improvements
 
-#### Random speed and ball direction functionality added
+**Random speed and ball direction functionality added**  
 I wanted to be sure that each time a user played the game that it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go and used random to generate a random float to be applied to the movement of the balls. 
 
-#### Removal of unneccesary functions
+**Removal of unneccesary functions**  
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
 
-#### Cleaned up formatting
+**Cleaned up formatting**  
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
 
-#### Corrected flashing win message 
+**Corrected flashing win message**   
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. 
 
 
