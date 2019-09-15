@@ -28,7 +28,7 @@ You may increase the speed of the balls by updating the argument provided in the
 
 In the screenshot below, you can see where to update the level of the game. 
 
-![](images/changing-level
+![](images/changing-level)
 
 ## Code Improvements
 
