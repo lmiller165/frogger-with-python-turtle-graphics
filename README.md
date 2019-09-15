@@ -14,15 +14,12 @@ Download the python file and run it on your machine. When the file is running pr
 ![](images/game-board.png)
 
 #### Game Play
-
 The objective of Frogger is to cross to the green finish line without colliding with the bouncing balls. If you hit one of the balls your frog will be sent back to start. Reach the green line and you win!
 
-#### Game Controls
-
+**Game Controls**
 Use your keyboard arrows to control your frog. You may move up, downn, forwards, and backwards.
 
-#### Change the level of the game
-
+**Change the level of the game**
 You may increase the speed of the balls by updating the argument provided in the main game loop. I reccommend starting with level three and incrementing up from there. 
 
 In the screenshot below, you can see where to update the level of the game. 
