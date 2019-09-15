@@ -19,10 +19,10 @@ Give examples
 
 ## Code Improvements
 
-#### Random Speed and Ball Direction
+#### Random speed and ball direction function added
 #### Removal of unneccesary functions
-#### Random lines of congratulations for a small spark of joy
-#### Cleaned formatting
+#### Cleaned up formatting
+#### Corrected flashing win message 
 
 
 ## Acknowledgements 
