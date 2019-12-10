@@ -41,16 +41,3 @@ A printed message was added to the top corner of the game board to inform the pl
 Game loop was cleaned up. The resulting message after a win was  flashing was corrected and no longer flashing.
 
 
-## Acknowledgements 
-Special thanks to:  
-
-**Inhye Baik**    
-For taking the time to review my code, provide valuable feedback, and share her experiences as a Hackbrighter.  
-
-**Danielle Yasso**   
-For grabbing a coffee with me to share her experiences as a Hackbrighter, tips for job search afterwards, and what she has accomplished since completing the program. 
-
-**Bianca Gandolfo**  
-For sharing her experiences completing Hack Reactor, her current role at Thumbtack, and her love of mentoring with Girls Who Code. 
-
-I am so grateful to all these women for their kindness, words of encouragement, and support. I look forward to becoming part of the women in tech community!
