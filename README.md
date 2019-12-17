@@ -1,7 +1,7 @@
-# Hackbright Scholarship Application 
-**Laura Miller**  
-**Cohort start date: September 30th, 2019**  
-Thank you for taking the time to review my application. This file contains instructions for installing my program, playing the Frogger game, and the improvements that were made to my code since it was submitted as a final project in the Prep Course. I hope you enjoy playing! 
+# Frogger
+**Built with Python's Turtle graphics**  
+**Completed as part of Hackbright's Prep course**  
+This file contains instructions for installing my program, playing the Frogger game, and future features. I hope you enjoy playing! 
 
 ![](images/header-image.jpg)
 
@@ -23,7 +23,7 @@ You may increase the speed of the balls by updating the argument provided in the
 
 ![](images/changing-level.jpg)
 
-## Code Improvements
+## Code Improvements Since version 1
 
 **Random speed and ball direction functionality added**  
 I wanted to be sure that each time a user played the game, it would be a different experience. In order to achieve this, I created a list of all the possible speeds and directions that the balls could go, then randomly generated a float to be applied to the movement of the balls. 
